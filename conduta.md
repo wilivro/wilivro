@@ -1,6 +1,6 @@
 A Wilivro Soluções Tecnológicas Educacionais quer encorajar um ambiente de trabalho seguro e agradável.  Isso só será possível se todos cooperarem e se comprometerem com padrões apropriados de comportamento.
 
-#Regras de Condulta
+#Regras de Conduta
 A seguir está uma lista de comportamentos que a empresa considera inaceitáveis.  Qualquer funcionário envolvido nesses comportamentos está sujeito a ações disciplinares, inclusive reprimendas, advertências, suspensão ou demissão:
 
 * Não estar no local de trabalho ou pronto para trabalhar no horário previsto.
