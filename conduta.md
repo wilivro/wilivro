@@ -9,7 +9,8 @@ A seguir está uma lista de comportamentos que a empresa considera inaceitáveis
 * Recusar-se a executar as instruções de um supervisor.
 * Deixar o local de trabalho (exceto por necessidades pessoais justificadas) sem permissão do supervisor.
 * Ignorar as obrigações ou vadiar durante o horário de trabalho.
-* Comparecer ao trabalho sob influência de álcool ou drogas ou trazer bebidas alcoólicas para as dependências da empresa.
+* Comparecer ao trabalho sob influência de álcool ou drogas ilícitas
+* Trazer bebidas alcoólicas para as dependências da empresa.
 * Dar intencionalmente informações falsas ou enganosas para obter emprego ou licença.
 * Usar linguagem ameaçadora, abusiva, racista ou cometer qualquer abuso com um colega de trabalho.
 * Fumar contrariamente à política estabelecida ou violar qualquer regulamento de proteção contra incêndio.
