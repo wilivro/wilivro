@@ -4,7 +4,7 @@
 
 - **Task Builder**
 
-São identificadas novas funcionalidades, melhorias e bugs.
+São identificadas novas funcionalidades, melhorias e bugs. Nesta etapa serão cadastradas as Issues no GitHub descritas de forma que qualquer pessoa que conheça o sistema possa entender o que deve ser feito.
 
 Por: Qualquer pessoa envolvida no projeto (Stakeholders).
 
@@ -18,7 +18,7 @@ Por: Responsável principal pelo projeto (Product Owner)
 
 - **Development**
 
-Desenvolver a funcionalidade conforme as regras estabelecidas no [documento]().
+Desenvolver a funcionalidade conforme as regras estabelecidas no [documento](desenvolvimento.md).
 
 Por: Desenvolvedores
 
