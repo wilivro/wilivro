@@ -20,8 +20,3 @@ A seguir está uma lista de comportamentos que a empresa considera inaceitáveis
 * Não cuidar corretamente, negligenciar ou abusar das ferramentas e equipamentos da empresa.
 * Usar equipamentos da empresa sem autorização.
 * Portar armas de fogo nas dependências da empresa.
-
-# Padronização de código
-
-* [Princípios para escrever CSS de forma consistente e idiomática](https://github.com/necolas/idiomatic-css/tree/master/translations/pt-BR)
-* [Princípios para escrever JavaScript de forma consistente e idiomática](https://github.com/rwaldron/idiomatic.js/tree/master/translations/pt_BR)
