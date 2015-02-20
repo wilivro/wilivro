@@ -2,9 +2,11 @@
 
 ##Versionamento
 
-- Git
+- [Git](http://git-scm.com/)
 
 ##Project Management
+
+- [Redmine](http://www.redmine.org/)
 
 ##Testes
 
