@@ -6,6 +6,7 @@
   - [JQuery](https://jquery.org/)
   - [JQueryUI](https://jqueryui.com/)
   - [RequireJS](http://requirejs.org/)
+  - [CreateJS](http://www.createjs.com/)
 
 ## Back-end
 
@@ -17,8 +18,9 @@
 
 ## DevOps
 
-- [Circle.ci](https://circleci.com/)
-- [dploy.io](http://dploy.io/)
+- [AWS](http://aws.amazon.com/)
+- [CircleCI](https://circleci.com/)
+- [Dploy.io](http://dploy.io/)
 - [Grunt](http://gruntjs.com/)
 - [Nginx](http://nginx.org/)
 - [Apache httpd](http://httpd.apache.org/)
@@ -29,5 +31,5 @@
 
 ## Database
 
-- [Mysql](https://www.mysql.com/)
+- [MySQL](https://www.mysql.com/)
 - [MongoDB](https://www.mongodb.org/)
