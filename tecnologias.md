@@ -25,7 +25,7 @@
 
 ## Versio Control
 
-- [GitHub](/)
+- [GitHub](http://github.com/)
 
 ## Database
 
